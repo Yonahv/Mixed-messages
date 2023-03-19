@@ -39,6 +39,6 @@ let randomwhatYouShouldDo = whatYouShouldDo[Math.floor(Math.random() * whatYouSh
 
 // step 3 = declare a new variable with final message.
 
-let finalMessage = [`Today is ${randomdayOfWeek}, and your feeling ${randomhowYourFeeling}, therfore your should ${randomwhatYouShouldDo}.`]
+let finalMessage = `Today is ${randomdayOfWeek}, and your feeling ${randomhowYourFeeling}, therfore your should ${randomwhatYouShouldDo}.`
 
 console.log(finalMessage)
