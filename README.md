@@ -14,3 +14,7 @@ This is a practice portfolio project I am making while learning JS.
 3.Use command line
 
 4.Develop locally on my computer using VS code
+
+## Final thoughts:
+
+I created three different versions to practice my problem solving skills.
